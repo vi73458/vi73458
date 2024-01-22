@@ -1,4 +1,4 @@
-### olá o victor hugo 👋
+### olá eu sou o victor hugo 🤙
 
 - 🌱 I’m currently learning: python ,HTML, CSS,javascript,java,c#
 - 👯 I’m looking to collaborate on : front end
