@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning: python ,HTML, CSS,javascript,java,c#
 - 👯 I’m looking to collaborate on : front end
 - 😄 Pronouns: ele/dele
-
+<br>
+ <div align="center">
+  <a href="https://github.com/Rodrigo-Cn"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugo-Cn&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugo-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+</div>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="victor Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
