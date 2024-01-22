@@ -6,8 +6,8 @@
 <br>
  <div align="center">
   <a href="https://github.com/Rodrigo-Cn"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugo-Cn&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugo-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vi73458-Cn&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v173458-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
 </div>
 <br>
 <div style="display: inline_block"><br>
