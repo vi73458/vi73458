@@ -19,7 +19,6 @@
 ![skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![skill](https://img.shlogoColorields.io/badge/React-20232A?style=for-the-badge&logo=react&=61DAFB)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi73458&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <div>
