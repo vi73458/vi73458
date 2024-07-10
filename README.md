@@ -1,4 +1,4 @@
-## Salve meu consagrado!! , sou Victor Hugo  ✌️
+## Salve meu consagrados e consagradas !! , sou Victor Hugo  ✌️
 
 
 ### Fale Comigo
