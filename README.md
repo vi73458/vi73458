@@ -72,7 +72,7 @@ Meus projetos combinam criatividade, lógica e impacto social — com foco em **
 ---
 
 ### 📫 Me chama pra conversar!
-**LinkedIn:** [Victor Hugo Amaral](www.linkedin.com/in/victor-silva-3858691b8)  
+**LinkedIn:** [Victor silva ](www.linkedin.com/in/victor-silva-3858691b8)  
 **Email:** [vh70121@gmail.com](mailto:vh70121@gmail.com)
 
 ---
