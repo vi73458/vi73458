@@ -1,59 +1,30 @@
-# 🚀 Controle de Gastos – Gerencie Suas Finanças com Facilidade 💸
+## Salve meu consagrados e consagradas !! , sou Victor Hugo  ✌️
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Django](https://img.shields.io/badge/backend-Django-%23092E20?logo=django)
-![Bootstrap](https://img.shields.io/badge/frontend-Bootstrap-%237952B3?logo=bootstrap)
 
-<img src="https://i.imgur.com/8Km9tLL.png" alt="Capa do projeto" style="width: 100%; border-radius: 8px;">
+### Fale Comigo
 
-## 📱 Sobre o Projeto
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-hugo-amaral-3858691b8)
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugo033@gmail.com)
 
-**Controle de Gastos** é uma aplicação web intuitiva para te ajudar a registrar, organizar e visualizar seus gastos de forma prática e visual. Criado com [Django](w) e [Bootstrap](w), o projeto foca em **acessibilidade, performance e usabilidade**.
 
----
 
-## 🔥 Funcionalidades
+## Estatísticas de Commits
+![VictorGitHub stats](https://github-readme-stats.vercel.app/api?username=vi73458&show_icons=true&theme=gotham)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vi73458&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
-✅ Cadastro e login de usuário  
-✅ Adição e edição de gastos  
-✅ Dashboard com resumo de despesas  
-✅ Gráficos interativos com [Chart.js](w)  
-✅ Filtros por data, categoria e valor  
-✅ Layout responsivo
 
----
+# Tecnologias Utilizadas
+![skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![skill](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![skill](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![skill](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![skill](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-## 🖼️ Prévia
 
-<img src="https://i.imgur.com/8s7zPhl.png" alt="Dashboard" width="700">
 
----
 
-## 🧠 Tecnologias Utilizadas
-
-- 💡 [Python](w) + [Django](w)
-- 🎨 [HTML](w) + [CSS](w) + [Bootstrap](w)
-- 📊 [Chart.js](w)
-- 🗃️ [SQLite](w) (ou [PostgreSQL](w) na produção)
-
----
-
-## 🚀 Como Rodar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/controle-gastos.git
-cd controle-gastos
-
-# Crie o ambiente virtual
-python -m venv venv
-source venv/bin/activate  # No Windows use: venv\Scripts\activate
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Rode o servidor
-python manage.py migrate
-python manage.py runserver
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi73458&layout=donut&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<div>
